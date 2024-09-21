@@ -4,9 +4,9 @@ Pomodoro App es una aplicación móvil que ayuda a los usuarios a gestionar su t
 
 ## Screenshots
 
-![App Screenshot](assets\1.png)
-![App Screenshot](assets\2.png)
-![App Screenshot](assets\3.png)
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
+![App Screenshot](assets/3.png)
 
 ## Instalación
 
